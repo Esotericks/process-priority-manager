@@ -1,0 +1,373 @@
+Esotericks Non-Commercial Source License
+Version 1.0
+
+Copyright (c) 2025 Esotericks
+All rights reserved.
+
+License ID: LicenseRef-Esotericks-NC-1.0
+
+By accessing, copying, downloading, installing, running, or otherwise using all
+or any part of the Software, You indicate that You have read, understood, and
+agree to be bound by this License. If You do not agree to all the terms of this
+License, You have no rights under it and must not access or use the Software.
+
+1. Definitions
+
+   1.1. "Software" means the source code, object code, configuration, scripts,
+        documentation, and all other content distributed by Owner under this
+        License, in any form, as provided by Owner.
+
+   1.2. "Owner" means the copyright holder identified above and any successor
+        or assign of such rights.
+
+   1.3. "You" (or "Your") means any individual or legal entity exercising
+        rights under this License.
+
+   1.4. "Affiliate" means any entity that directly or indirectly controls, is
+        controlled by, or is under common control with a party, where
+        "control" means ownership of more than fifty percent (50%) of the
+        voting interests or equivalent power.
+
+   1.5. "Contributor" means Owner and any individual or entity who submits
+        code, documentation, or other material that is accepted and
+        incorporated into the Software.
+
+   1.6. "Distribute" (and "Distribution") means to make the Software or any
+        derivative work available to any third party, in whole or in part, by
+        any means, including but not limited to copying, publishing,
+        transmitting, selling, licensing, or hosting such material for access
+        by others.
+
+   1.7. "Commercial or Revenue-Generating Use" means any use of the Software,
+        in whole or in part, that:
+
+        (a) is intended for or directed toward commercial advantage, monetary
+            compensation, or any other financial or economic benefit; or
+
+        (b) is by, for, or on behalf of any for-profit entity, or any other
+            entity, project, product, or service that engages in or supports
+            revenue generation, fundraising, advertising, sponsorships,
+            subscriptions, paid memberships, donations tied to access or
+            functionality, or other financial consideration, where the
+            Software is used in connection with, in support of, or in
+            preparation for such activities.
+
+        Commercial or Revenue-Generating Use includes, without limitation:
+        using the Software to develop, operate, test, evaluate, benchmark, or
+        maintain any product or service offered or intended to be offered for
+        a fee or other consideration; using the Software to provide services
+        to third parties; and using the Software to reduce costs, improve
+        efficiency, or otherwise benefit the operations of any commercial or
+        revenue-generating organization, whether or not the Software itself
+        directly generates revenue.
+
+   1.8. "Production Use" means deployment, integration, or use of the Software,
+        in whole or in part, in any system, application, product, or service
+        that:
+
+        (a) is used by, or accessible to, real users (internal or external); or
+
+        (b) processes real, customer, client, or operational data; or
+
+        (c) supports, directly or indirectly, any business, operational, or
+            organizational function in regular or live operation.
+
+   1.9. "Non-Commercial Use" means any use of the Software that is not a
+        Commercial or Revenue-Generating Use and not a Production Use.
+        Non-Commercial Use includes personal projects, individual learning,
+        experimentation, and purely academic or research use that is not
+        carried out for or on behalf of a for-profit or revenue-generating
+        entity and is not used in any Production environment.
+
+   1.10. "Written Permission" means a separate written agreement, license, or
+         addendum, signed by Owner (physically or via a recognized electronic
+         signature service), that expressly grants specified rights in the
+         Software. Negotiations, discussions, or email correspondence that are
+         not clearly identified as a grant of rights and signed by Owner do
+         not constitute Written Permission.
+
+2. Grant of Limited Non-Commercial License
+
+   Subject to Your strict and ongoing compliance with this License, Owner
+   grants You a limited, worldwide, revocable, non-exclusive,
+   non-sublicensable, and non-transferable license to:
+
+   (a) use, copy, and run the Software;
+
+   (b) modify the Software and create derivative works of the Software; and
+
+   (c) Distribute copies of the Software and derivative works of the Software,
+
+   in each case solely for Non-Commercial Use.
+
+   Any use of the Software that is not Non-Commercial Use requires prior
+   Written Permission from Owner.
+
+3. Conditions on Use, Modification, and Distribution
+
+   Your rights under Section 2 are subject to all of the following conditions:
+
+   3.1. License Notice. You must include a copy of this License, including the
+        copyright notice above, in all substantial or non-trivial copies of the
+        Software and in all substantial or non-trivial portions of derivative
+        works that You create and Distribute, whether in source or object form.
+
+   3.2. Attribution. You must preserve all existing copyright, license, and
+        attribution notices in the Software. You may add Your own copyright
+        notices for Your modifications, but You may not remove or alter Owner's
+        notices.
+
+   3.3. Distribution Subject to This License. If You Distribute the Software or
+        any derivative work to any third party, You must provide them with a
+        copy of this License and may not impose terms on the Software that are
+        inconsistent with, or purport to limit, the rights of Owner under this
+        License. Nothing in this License prohibits You from applying additional
+        terms to Your own original contributions, provided that such additional
+        terms do not purport to grant any rights in the Software itself beyond
+        those granted here.
+
+   3.4. No Misrepresentation. You must not misrepresent the origin of the
+        Software, and You must not state or imply that Owner or any Contributor
+        endorses Your use, modifications, or derivative works without Written
+        Permission.
+
+   3.5. No Sublicensing. You may not grant or purport to grant any license or
+        rights to the Software on behalf of Owner or any Contributor, or under
+        any terms other than this License, without Written Permission.
+
+   3.6. Compliance with Law. You must comply with all applicable laws and
+        regulations in connection with Your use, modification, and Distribution
+        of the Software.
+
+4. Ownership; No Implied Licenses
+
+   The Software is owned by Owner and is protected by copyright and other
+   intellectual property laws. All rights in and to the Software not expressly
+   granted to You in Section 2 or in any Written Permission are reserved by
+   Owner.
+
+   No patent, trademark, trade secret, or other intellectual property rights
+   are granted or implied by this License. No license is granted by implication,
+   estoppel, or otherwise, including any license to make Commercial or
+   Revenue-Generating Use or Production Use of the Software, or to make any
+   use beyond Non-Commercial Use as expressly set out in Section 2, except as
+   expressly granted in a Written Permission.
+
+   Making the Software publicly accessible, accepting contributions, receiving
+   pull requests or patches, or any prior delay, omission, or failure by Owner
+   to enforce its rights does not create an implied license, waiver, estoppel,
+   dedication to the public domain, or covenant not to sue.
+
+5. Prohibited Uses Without Written Permission
+
+   Without prior Written Permission from Owner, You may NOT, and You agree that
+   You will NOT, directly or indirectly:
+
+   5.1. Commercial or Revenue-Generating Use. Make any Commercial or
+        Revenue-Generating Use of the Software or any derivative work, including
+        but not limited to:
+
+        (a) using the Software in or for any product, service, system, dataset,
+            or workflow that is offered, provided, licensed, or sold by, on
+            behalf of, or for the benefit of any commercial or
+            revenue-generating entity;
+
+        (b) using the Software, or any derivative work, in connection with
+            consulting, contracting, professional services, or any other
+            engagement for which You or any third party receive or expect to
+            receive compensation;
+
+        (c) using the Software to develop, evaluate, test, or benchmark any
+            product or service that is or is intended to be commercialized,
+            monetized, or otherwise made available for a fee, subscription,
+            donation, sponsorship, or advertising-supported model; or
+
+        (d) using the Software in any way intended to reduce the costs, improve
+            the efficiency, improve the performance, or otherwise benefit the
+            operations of any commercial or revenue-generating entity, even if
+            the Software itself is not directly sold or licensed.
+
+   5.2. Production Use. Use the Software, in whole or in part, in any
+        Production Use, whether or not such use is commercial, including
+        internal production systems.
+
+   5.3. Hosting or Service Offering. Offer, sell, license, host, or otherwise
+        make available the Software or any derivative work as part of any
+        hosted or managed service, platform, or product offering, whether paid
+        or unpaid, if such offering is associated with any Commercial or
+        Revenue-Generating Use.
+
+   5.4. Machine Learning, AI, and Data Uses.
+
+        (a) use the Software, in whole or in part, as training data, evaluation
+            data, or input for training, fine-tuning, or improving any machine
+            learning, artificial intelligence, or similar model or system; or
+
+        (b) use the Software to generate, label, or curate datasets for use
+            with any machine learning, artificial intelligence, or similar
+            models or systems, whether for commercial or non-commercial
+            purposes.
+
+   5.5. Removal of Notices. Remove, obscure, or alter any copyright, license,
+        or attribution notices contained in the Software.
+
+   5.6. Circumvention. Circumvent, attempt to circumvent, or encourage or assist
+        any third party in circumventing any technical, legal, or contractual
+        restrictions intended to enforce or reflect the terms of this License.
+
+6. Third-Party Components
+
+   If any files in the Software identify third-party components or include or
+   reference a separate license (for example, in a NOTICE file or header
+   comments), those third-party licenses govern the use of those components.
+   Nothing in this License is intended to limit Your rights under such
+   third-party licenses, nor to grant You rights to such components that
+   supersede their original terms.
+
+7. Term and Termination
+
+   7.1. Term. This License is effective from the moment You first access or use
+        the Software and continues until terminated as provided in this
+        Section 7.
+
+   7.2. Automatic Termination. This License, and all rights granted to You
+        under it, automatically terminate without notice if You breach any term
+        or condition of this License.
+
+   7.3. Termination by Owner. Owner may terminate this License, as to You
+        specifically, at any time upon notice to You if Owner reasonably
+        believes that You have violated this License or used the Software in a
+        manner that exposes Owner or any Contributor to legal risk.
+
+   7.4. Effect on Future Versions. Owner may at any time cease distributing the
+        Software, or distribute future versions under different terms. Such
+        changes will not, by themselves, terminate Your rights under this
+        License with respect to copies of the Software You already lawfully
+        obtained, but any new copies or versions You receive will be governed
+        by the terms under which they are distributed.
+
+   7.5. Reinstatement. Owner may, but is not obligated to, offer reinstatement
+        of this License or grant new rights under Written Permission. Any
+        reinstatement must be in writing and signed by Owner.
+
+   7.6. Survival. The following Sections survive termination of this License:
+        1, 4, 5, 6, 7.4, 7.5, 8, 9, 10, 11, 12, 13, 14, 15, 16, and 17.
+
+8. Disclaimer of Warranties
+
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND
+   WITHOUT ANY WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY
+   APPLICABLE LAW, OWNER AND ALL CONTRIBUTORS DISCLAIM ALL WARRANTIES, WHETHER
+   EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY
+   IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   NON-INFRINGEMENT, TITLE, SATISFACTORY QUALITY, QUIET ENJOYMENT, AND
+   ACCURACY.
+
+   YOU ASSUME ALL RISKS ASSOCIATED WITH INSTALLING, RUNNING, USING, MODIFYING,
+   AND DISTRIBUTING THE SOFTWARE. OWNER DOES NOT WARRANT THAT THE SOFTWARE WILL
+   BE UNINTERRUPTED, SECURE, OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR
+   THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS.
+
+9. Limitation of Liability
+
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL OWNER OR ANY
+   CONTRIBUTOR BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL,
+   EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA,
+   OR GOODWILL, ARISING OUT OF OR RELATING TO THE SOFTWARE OR THIS LICENSE,
+   EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR IF A REMEDY FAILS OF
+   ITS ESSENTIAL PURPOSE.
+
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE TOTAL AGGREGATE LIABILITY OF
+   OWNER AND ALL CONTRIBUTORS FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE
+   SOFTWARE OR THIS LICENSE, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE),
+   STRICT LIABILITY, OR ANY OTHER THEORY, WILL NOT EXCEED THE AMOUNT, IF ANY,
+   THAT YOU ACTUALLY PAID TO OWNER SPECIFICALLY FOR THE RIGHT TO USE THE
+   SOFTWARE UNDER THIS LICENSE IN THE TWELVE (12) MONTHS BEFORE THE FIRST EVENT
+   GIVING RISE TO LIABILITY. FOR CLARITY, IF YOU PAID NO SUCH AMOUNT, THIS CAP
+   IS ZERO U.S. DOLLARS (US$0).
+
+   SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR
+   CERTAIN TYPES OF DAMAGES. TO THE EXTENT SUCH LAWS APPLY TO YOU, THE
+   EXCLUSIONS AND LIMITATIONS ABOVE APPLY ONLY TO THE MAXIMUM EXTENT PERMITTED
+   BY LAW.
+
+10. Indemnity
+
+   To the fullest extent permitted by applicable law, You agree to indemnify,
+   defend, and hold harmless Owner, its Affiliates, and all Contributors, and
+   their respective officers, directors, employees, and agents, from and
+   against any and all claims, demands, actions, liabilities, damages, losses,
+   costs, and expenses (including reasonable attorneys' fees) arising out of or
+   in any way connected with:
+
+   (a) Your use of the Software;
+
+   (b) Your modification or Distribution of the Software or any derivative
+       works;
+
+   (c) Your violation of this License; or
+
+   (d) Your violation of any applicable law, rule, or regulation or any
+       third-party right in connection with the Software.
+
+11. Governing Law; Venue; Consent to Jurisdiction
+
+   This License is governed by and construed in accordance with the laws of the
+   State of Michigan, United States of America, without regard to its
+   conflict-of-laws rules. The state and federal courts located in Michigan
+   will have exclusive jurisdiction and venue over any dispute arising out of
+   or relating to this License or the Software, and You irrevocably consent to
+   personal jurisdiction in those courts and waive any objection based on
+   inconvenient forum or lack of jurisdiction.
+
+12. Reservation of Rights; No Waiver; No Duty to Enforce
+
+   Owner may, in its sole discretion, decide whether, when, and how to enforce
+   its rights in the Software. Any delay, omission, or failure by Owner to
+   enforce any term of this License against any person does not waive any right
+   or remedy and does not constitute consent, permission, acquiescence, or an
+   implied license. No course of dealing or enforcement pattern will operate as
+   a waiver or give rise to estoppel. All rights and remedies of Owner are
+   cumulative. Owner has no obligation to monitor, police, or pursue claims
+   against third parties.
+
+13. Contact Information; No Permission by Contact
+
+   For inquiries only, contact: gabriel@esotericks.com. Contacting Owner, sending
+   questions, suggestions, or feedback, or receiving any response does not
+   grant any permission or license. Any rights regarding the Software require a
+   separate Written Permission signed by Owner that expressly grants such
+   rights.
+
+14. Severability
+
+   If any provision of this License is held to be invalid, illegal, or
+   unenforceable, the remaining provisions remain in full force and effect, and
+   the invalid, illegal, or unenforceable provision will be enforced to the
+   maximum extent permissible consistent with the parties' original intent.
+
+15. Entire Agreement; No Third-Party Beneficiaries
+
+   This License is the entire agreement between You and Owner concerning the
+   Software and supersedes all prior or contemporaneous understandings,
+   agreements, negotiations, and communications, whether written or oral,
+   regarding the Software. There are no third-party beneficiaries to this
+   License.
+
+16. Assignment
+
+   You may not assign, delegate, or transfer this License or any of Your rights
+   or obligations under it, whether by operation of law or otherwise, without
+   prior Written Permission from Owner. Any attempted assignment in violation
+   of this Section 16 is null and void. Owner may assign this License, in whole
+   or in part, without notice.
+
+17. Interpretation
+
+   Headings are for convenience only and do not affect the interpretation of
+   this License. This License will be interpreted as if jointly drafted by You
+   and Owner, and no presumption or rule of strict construction will apply
+   against either party as drafter. In this License, "including" and similar
+   terms are to be construed as "including without limitation." Nothing in this
+   License is intended to limit any non-waivable statutory rights You may have
+   under applicable law.
