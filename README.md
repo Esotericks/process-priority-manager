@@ -163,4 +163,4 @@ This software is distributed with a required license file:
 
 - `LICENSE`
 
-Read that file before using the software. Running or installing the program requires acknowledging the license terms.
+Running or installing the program requires acknowledging all LICENSE terms.
