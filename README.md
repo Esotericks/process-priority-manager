@@ -154,7 +154,6 @@ Default settings:
 ## Notes
 
 - The program is intended for Windows only.
-- The executable contains its application icon, so the shortcut uses the embedded icon from the `.exe`.
 - The application may pause and keep the console open after certain startup failures so error output remains visible.
 
 ## License
