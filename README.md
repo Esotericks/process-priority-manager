@@ -3,6 +3,7 @@
     <h5 align="center">A Windows utility that automatically adjusts process priorities based on the currently prioritized application.</h5>
     <p align="center">
         <a href="https://www.patreon.com/cw/SenpaiGabriel">Support on Patreon</a>
+        <a href="https://github.com/Esotericks/process-priority-manager/releases">Download the Latest Release.</a>
     </p>
 </p>
 
@@ -14,9 +15,11 @@
     ░██   ░██ ░██   ░██     ░██   ░██   ░██       ░██   ░██ ░██  
     ░██████   ░██████      ░██    ░███████ ░███████     ░████   
 
-## System requirements
+## Important
 
-Windows 10 or Windows 11.
+- The program will never access the internet.
+- The program is designed for Windows 10 and 11 only.
+- The application may pause and keep the console open after certain startup failures so error output remains visible.
 
 ## Shipped files
 
@@ -29,9 +32,10 @@ Do not separate `process_priority_manager.exe` from `LICENSE`. The executable ch
 
 ## Installation
 
-1. Keep `process_priority_manager.exe` and `LICENSE` in the same folder.
-2. Run `process_priority_manager.exe`.
-3. On first launch, the program will:
+1. Download the latest [release](https://github.com/Esotericks/process-priority-manager/releases)
+2. Keep `process_priority_manager.exe` and `LICENSE` in the same folder.
+3. Run `process_priority_manager.exe`.
+4. On first launch, the program will:
    - prompt you to accept the license terms
    - create the `resources` folder if needed
    - create or update `resources\settings.json`
@@ -150,11 +154,6 @@ Default settings:
 - Stores the accepted license identifier.
 - Current accepted value: `LicenseRef-Esotericks-NC-1.0`
 - Default before acceptance: `none`
-
-## Notes
-
-- The program is intended for Windows only.
-- The application may pause and keep the console open after certain startup failures so error output remains visible.
 
 ## License
 
